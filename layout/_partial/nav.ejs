@@ -1,0 +1,14 @@
+
+<div class="hd-head">
+
+    <ol class="breadcrumb">
+     <a class="ba" id="nav-logo" href="<%- theme.link %>">👨‍🎓<%= theme.logo_title %></a> 
+        <% for (name in theme.menu) { %>
+            <li><a class="ba" href="<%- url_for(theme.menu[name]) %>"><%= name %></a></li>
+        <% } %>
+
+
+
+    </ol>
+
+</div>

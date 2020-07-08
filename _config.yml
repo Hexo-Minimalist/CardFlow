@@ -1,0 +1,48 @@
+# 网站标题
+logo_title: 进击の算法
+# 初始化风格 black/light
+style: dark
+
+#SEO优化
+
+## 网站描述
+description: 嘿，我是刘训灼，这是我的子站，用于展示写的Hexo主题：Coder。欢迎访问！
+
+## 网站关键词：用英文逗号分割
+keywords: Blog,Hexo,Theme,刘训灼,LiuXunzhuo
+
+# 首页URL
+link: https://www.liuxunzhuo.top
+
+#标语:
+words: 嘿，这里是 "Hexo Coder"😊
+
+# 你的昵称
+author: LiuXunzhuo
+# 中心图标选择男女或者自定义
+gender: /img/male.png #/img/female.png
+
+favicon: /img/favicon.ico
+
+# 菜单栏配置
+menu:
+  关于我: /about
+  访问主站: https://www.liuxunzhuo.tech
+
+# 站内关键词搜索 | Local Search
+search:
+ enable: false
+ path: search.xml
+ field: post
+ # onload: true
+ 
+# 做了域名限制，请改成自己的 KEY
+# 若关闭valine 设置enable为false∂
+valine:
+  enable: true
+  appId: NOsswOncKgc8HOxqo9oxIWlX-gzGzoHsz
+  appKey: z1FihjWEbS8uIfUQdmCtK7zz
+
+
+highlight:
+  enable: true
