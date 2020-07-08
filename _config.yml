@@ -6,23 +6,21 @@ style: dark
 #SEO优化
 
 ## 网站描述
-description: 嘿，我是刘训灼，这是我的子站，用于展示写的Hexo主题：Coder。欢迎访问！
+description: 嘿，我是刘训灼，这里用于展示写的Hexo主题：CardFlow。
 
 ## 网站关键词：用英文逗号分割
 keywords: Blog,Hexo,Theme,刘训灼,LiuXunzhuo
 
 # 首页URL
-link: https://www.liuxunzhuo.top
+link: https://card.liuxunzhuo.top
 
 #标语:
-words: 嘿，这里是 "Hexo Coder"😊
+words: 嘿，这里是 "Hexo CardFlow"😊
 
 # 你的昵称
 author: LiuXunzhuo
-# 中心图标选择男女或者自定义
-gender: /img/male.png #/img/female.png
 
-favicon: /img/favicon.ico
+favicon: https://picreso.oss-cn-beijing.aliyuncs.com/favicon.ico
 
 # 菜单栏配置
 menu:
