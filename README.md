@@ -6,4 +6,4 @@
 >
 > 目前还在测试阶段，会不断升级，到时成熟时会有完整文档并发布
 
-![card](https://picreso.oss-cn-beijing.aliyuncs.com/card.png)
+![card](https://picreso.oss-cn-beijing.aliyuncs.com/cards.png)
