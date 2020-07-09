@@ -25,7 +25,7 @@ favicon: https://picreso.oss-cn-beijing.aliyuncs.com/favicon.ico
 # 菜单栏配置
 menu:
   关于我: /about
-  访问主站: https://www.liuxunzhuo.tech
+  访问主站: https://liuxunzhuo.tech
 
 # 站内关键词搜索 | Local Search
 search:
